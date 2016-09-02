@@ -1,0 +1,15 @@
+Package: reboot
+Title: Updates R Packages After R Has Been Updated
+Version: 0.0.1
+Authors@R: c(person("Steve", "Simpson", email = "steven.troy.simpson@gmail.com", role = c("aut", "cre")))
+Maintainer: Steve Simpson <steven.troy.simpson@gmail.com>
+Description: Updates R Packages After R Has Been Updated.
+Depends:
+    R (>= 3.2.2)
+Suggests:
+    testthat
+Date: 2016-09-01
+License: MIT
+LazyData: TRUE
+Roxygen: list(wrap = FALSE)
+RoxygenNote: 5.0.1
